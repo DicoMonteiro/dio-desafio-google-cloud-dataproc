@@ -1,0 +1,13 @@
+## As 10 palavras mais usadas no livro ##
+
+- the;
+- and;
+- of;
+- I;
+- to;
+- my;
+- a;
+- '';
+- in;
+- was;
+- that;
